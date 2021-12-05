@@ -1,0 +1,4 @@
+# python version: 3.9.2
+
+pygame==2.0.2
+mutagen==1.45.1
